@@ -42,6 +42,6 @@ Bem-vindo ao nosso jogo de adivinhação em C, onde o objetivo é adivinhar o n�
 
 ## Créditos
 
-Este jogo simples foi criado em C por [Seu Nome] como um projeto de demonstração. Sinta-se à vontade para modificar, aprimorar ou personalizar o jogo conforme desejar.
+Este jogo simples foi criado em C por Eduardo Fronza como um projeto de demonstração. Sinta-se à vontade para modificar, aprimorar ou personalizar o jogo conforme desejar.
 
 ---

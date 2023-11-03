@@ -12,6 +12,8 @@ int main() {
     int chute;
     int tentativas = 1;
 
+    double pontos = 1000;
+     
 
     // Laço de reptição para as tentativas 
     while (1) {
@@ -48,7 +50,11 @@ int main() {
         }
 
         tentativas++;
+
+        double pontosperdidos = (chute - numerosecreto) / 2.0;
+        pontos = pontos - pontosperdidos;
     }
     printf("Fim de jogo! \n");
     printf("Voce acertou na tentativa %d \n", tentativas);
+    printf("Total de pontos: %.1f", pontos);
 };
